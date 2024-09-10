@@ -98,8 +98,8 @@ class WebScraper:
         products = self.w_size(size, products)
         self.file_type(format_, products)
 
-scraper = WebScraper()
-scraper.main()
+# scraper = WebScraper()
+# scraper.main()
 # Webscraper before class
 
 # import requests
