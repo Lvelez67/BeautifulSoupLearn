@@ -1,6 +1,6 @@
-import requests
-import csv
-from bs4 import BeautifulSoup
+# import requests
+# import csv
+# from bs4 import BeautifulSoup
 
 # url = "https://www.newegg.com/zotac-trinity-zt-d40820q-10p-nvidia-geforce-rtx-4080-super-16gb-gddr6x/p/N82E16814500581"
 

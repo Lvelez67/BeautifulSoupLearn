@@ -1,5 +1,5 @@
-from bs4 import BeautifulSoup
-import re
+# from bs4 import BeautifulSoup
+# import re
 
 # with open("index.html", "r") as f:
 #     doc = BeautifulSoup(f,"html.parser")
