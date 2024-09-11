@@ -1,7 +1,7 @@
 List of TODO:
- - [ ] Pagination Tool (Luis)
- - [ ] Product Search (Would remove entering html file option)
- - [ ] Add Titles to first row of the .csv files
+ - [x] Pagination Tool (Luis)
+ - [x] Product Search (Would remove entering html file option)(Luis)
+ - [x] Add Titles to first row of the .csv files(Luis)
  - [ ] Terminal UI
 
 Possible TODO:

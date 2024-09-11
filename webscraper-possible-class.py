@@ -205,3 +205,18 @@ class WebScraper:
 #     file_type(format_,products)
 
 # main()
+
+# def fileType(format_,data):
+#     if format_.lower() == "csv":
+#         with open('ProductPrices.csv', 'w') as csv_file:
+#             writer = csv.writer(csv_file)
+#             for key, value in dictionary.items():
+#                 writer.writerow(value + [key])
+#     elif format_.lower() == "text":
+#         with open("ProductPrices.txt", 'w') as f1:
+#             for key, value in dictionary.items():
+#                 f1.write('%s:%s\n' % (value, key))
+#     else:
+#         print("Incorrect choice!!")
+#         newFormat_ = input("Would you like the output to be in a text file or csv? (choice: text or csv)")
+#         return self.file_type(newFormat_, dictionary)
